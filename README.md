@@ -35,3 +35,21 @@ SAP Business One - 07 Visual Studio Installation
 SAP Business One - 08 SAP Business One - Service Layer - SLD - SAP B1 Client - SDK InstallationDK
 
 [![Nombre del video](https://img.youtube.com/vi/gcON6Y4ebz4/0.jpg)](https://www.youtube.com/watch?v=gcON6Y4ebz4)
+
+SAP Business One - 09 SAP Business One Company Configuration
+
+[![Nombre del video](https://img.youtube.com/vi/CTBkGvhNTGw/0.jpg)](https://www.youtube.com/watch?v=CTBkGvhNTGw)
+
+SAP Business One - 10 ASP.Net Model View Controller Project with User Authentication
+
+[![Nombre del video](https://img.youtube.com/vi/PbRkChabDss/0.jpg)](https://www.youtube.com/watch?v=PbRkChabDss)
+
+SAP Business One - 11 Postman Installation and Service Layer Testing in SAP Business One
+
+[![Nombre del video](https://img.youtube.com/vi/L83ZX_RgCOs/0.jpg)](https://www.youtube.com/watch?v=L83ZX_RgCOs)
+
+SAP Business One - 12 Installing DotNet To Run ASP NET Applications On IIS
+
+[![Nombre del video](https://img.youtube.com/vi/vLx_8zoCsfE/0.jpg)](https://www.youtube.com/watch?v=vLx_8zoCsfE)
+
+
